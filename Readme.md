@@ -9,7 +9,7 @@ Subject:
 4. When you submit a file, you receive the file name, type, and size in bytes within the JSON response.
 
 
-**HINT**: You can use the multer npm package to handle file uploading.
+**HINT**: You can use the **multer** npm package to handle file uploading.
 
 
 
